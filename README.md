@@ -17,10 +17,10 @@ Este é um projeto simples de Jogo da Velha (Tic-Tac-Toe) desenvolvido com HTML,
 
 ## Como Jogar
 
-1. Para acessar o projeto (clique aqui)[https://joaomiano.github.io/Jogo_Da_Velha/].
+1. Para acessar o projeto [clique aqui](https://joaomiano.github.io/Jogo_Da_Velha/).
 2. Clique nas células da grade para alternar entre os jogadores ("X" e "O").
 3. O jogo será reiniciado automaticamente quando houver um vencedor ou um empate.
 4. Você também pode reiniciar o jogo manualmente clicando no botão "Resetar".
 
 ## Criador
-Projeto dessenvolvido por (João Pedro Miano)[https://www.linkedin.com/in/joao-miano/]
+Projeto dessenvolvido por [João Pedro Miano](https://www.linkedin.com/in/joao-miano/)
